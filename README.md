@@ -16,11 +16,11 @@ I am currently learning React to expand my front-end development skills. My visi
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25"/> GitHub Stats
 <a href="https://github.com/MohsenDevPro">
-    <img height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=MohsenDevPro&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false">
+    <img height="200" width="350" align="left" src="https://github-readme-stats.vercel.app/api?username=MohsenDevPro&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false">
 </a>
 
 <a href="https://github.com/MohsenDevPro">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsenDevPro&layout=compact" />
+    <img height="200" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsenDevPro&layout=compact" />
 </a>
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Globe%20with%20Meridians.png" alt="Slightly Smiling Face" width="25" height="25"/> Support Me
