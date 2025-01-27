@@ -9,7 +9,7 @@ I am currently learning React to expand my front-end development skills. My visi
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Hot%20Beverage.png" alt="Slightly Smiling Face" width="25" height="25"/>  My Current Tech Stack
 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" title="Javascript"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" title="Javascript"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="48" title="JQuery"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">
 
 
 
